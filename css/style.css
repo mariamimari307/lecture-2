@@ -1,0 +1,131 @@
+.container {
+    max-width: 1052px;
+    width: 100%;
+    margin: 0 auto;
+}
+.html {
+    margin-top: 59px;
+    margin-bottom: 26px;
+}
+.txt {
+    margin-bottom: 14px;
+}
+.it {
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.other {
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.ban {
+    margin-bottom: 36px;
+}
+.ft {
+    margin-right: 41px;
+}
+#foot {
+    margin-bottom: 190px;
+}
+.box {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	padding: 12px;
+	margin-top: 44px;
+	margin-bottom: 18px;
+}
+.purp {
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 14px;
+}
+.blue {
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 14px;
+}
+.bot {
+	margin-bottom: 8px;
+}
+.hot {
+	margin-bottom: 2px;
+}
+.div3 {
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1021px;
+}
+.img {
+    margin-bottom: 32px;
+}
+#footer1 {
+    margin-top: 39px;
+    margin-bottom: 69px;
+}
+.stick {
+	display: inline-block;
+	margin-right: 41px;
+	width: 2px;
+	height: 50px;
+	background-color: #5012D5;
+	vertical-align: bottom;
+}
+.mn {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 44px;
+	color: #4E6FAE;
+	margin-top: 123px;
+}
+.gr {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #7E8898;
+	display: inline-block;
+}
+.bl {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #3F4145;
+	display: inline-block;
+}
+.cont {
+	margin-top: 23px;
+}
+#di {
+	margin-left: 120px;
+}
+.con {
+    margin-left: 215px;
+    margin-bottom: 273px;
+}
+#foo {
+    margin-bottom: 87px;
+}
